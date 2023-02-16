@@ -11,5 +11,5 @@ Challenge yang kami berikan terbagi menjadi tiga bagian berdasarkan departemen R
 > Please click this [link](https://github.com/RushingAlien/poros-freepass-backend)
 
 ### Security
-COMING SOON
+> Please click this [link](https://github.com/adamdaffa56/Poros-Freepass-Security)
 
